@@ -1,0 +1,11 @@
+server:
+ port: 9090
+qiniu:
+ accessKey: "P5VoMCZynP9m6Ph6aObWLPFmmLkDjESMxZeeWQ8p"
+ secretKey: "SSFceoyk5_OjrQxcowY_9kDirK-2LG-OuWk22bo_"
+ bucket: "qwercs"
+ domain: "http://qiniuyun.com"
+alimessage:
+ regionId: ""
+ accessKeyId: "LTAIsglyCSGcnmoM"
+ accessKeySecret: "n2RJm2EChGXTA4n6HHt5EC9TMtu3z3"
